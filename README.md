@@ -11,6 +11,13 @@ SSVDD model is implmented on top of the SVDD model, for which we have used the o
 Please cite the following papers for using any part of this code.
 
 ```
+@article{zaffar2023credit,
+  title={Credit Card Fraud Detection with Subspace Learning-based One-Class Classification},
+  author={Zaffar, Zaffar and Sohrab, Fahad and Kanniainen, Juho and Gabbouj, Moncef},
+  journal={arXiv preprint arXiv:2309.14880},
+  year={2023}
+}
+
 @inproceedings{sohrab2018subspace,
   title={Subspace support vector data description},
   author={Sohrab, Fahad and Raitoharju, Jenni and Gabbouj, Moncef and Iosifidis, Alexandros},
@@ -18,13 +25,6 @@ Please cite the following papers for using any part of this code.
   pages={722--727},
   year={2018},
   organization={IEEE}
-}
-
-@article{zaffar2023credit,
-  title={Credit Card Fraud Detection with Subspace Learning-based One-Class Classification},
-  author={Zaffar, Zaffar and Sohrab, Fahad and Kanniainen, Juho and Gabbouj, Moncef},
-  journal={arXiv preprint arXiv:2309.14880},
-  year={2023}
 }
 ```
 
